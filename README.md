@@ -29,10 +29,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias/bibliotecas
 ```bash
 
    #Clonar o repositório
-  $ git clone https://github.com/elielprata/01-fundamentos-nodejs.git
+  $ git clone https://github.com/elielprata/ignite-node-challenge-tasks.git
 
   # Entrar no diretório
-  $ cd 01-fundamentos-nodejs
+  $ cd ignite-node-challenge-tasks
 
   # Instalar as dependências
   $ npm i
